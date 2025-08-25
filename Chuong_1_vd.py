@@ -7,4 +7,5 @@ so2 = int(input("Nhap So Thu Hai: "));
 tong = so1 + so2;
 
 #hien thi ket qua
-print("Tong 2 so =  ",so1 ,"+" , so2,"=",tong);S
+
+print("Tong 2 so =  ",so1 ,"+" , so2,"=",tong);
